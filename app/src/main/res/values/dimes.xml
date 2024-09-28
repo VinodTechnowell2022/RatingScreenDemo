@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="cat_checkbox_line_separator_thickness">4dp</dimen>
+    <dimen name="cat_checkbox_line_separator_margin">8dp</dimen>
+    <dimen name="cat_checkbox_padding">8dp</dimen>
+    <dimen name="cat_checkbox_indent">8dp</dimen>
+
+    <integer name="duration_bar">800</integer>
+    <integer name="duration_search">800</integer>
+
+
+    <!-- Font size, per the Android Design guidelines. -->
+    <dimen name="text_size_micro">12sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_medium">12sp</dimen>
+    <dimen name="text_size_large">22sp</dimen>
+    <dimen name="widget_margin_small">15dp</dimen>
+    <dimen name="widget_padding_small">15dp</dimen>
+
+    <!--Title Label-->
+    <dimen name="seperator_label">18sp</dimen>
+    <dimen name="title_label">17sp</dimen>
+    <dimen name="sub_title_label">14sp</dimen>
+    <dimen name="input_label">15sp</dimen>
+    <dimen name="small_label">12sp</dimen>
+    <dimen name="chip_label">12sp</dimen>
+</resources>
